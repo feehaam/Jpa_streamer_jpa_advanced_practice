@@ -23,3 +23,5 @@ docker compose up -d     # start PostgreSQL
 - Shared service abstraction with two interchangeable implementations
 - Product domain model: Product, Variant, Tag, Photo
 - Dockerized PostgreSQL for local runs
+
+<!-- sync-marker-1 -->
